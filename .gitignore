@@ -4,6 +4,6 @@ obj/
 .idea/
 TestResults/
 coverage/
-export/
+/export/
 *.user
 .DS_Store
